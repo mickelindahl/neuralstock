@@ -1,0 +1,6 @@
+.config*
+.empty
+.idea
+data
+.env
+venv
